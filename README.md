@@ -1,2 +1,2 @@
-# DomesticFlightDataInformationSystem
-thilankawillbe@gmail.com
+# xinformatics-final-project
+repository for project
